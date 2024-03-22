@@ -1,34 +1,34 @@
-ROM OUTPUT (7...3)  ---  Decoder Output  ---  Symbol  ---  Description
+ROM OUTPUT (7...3)       Decoder Output       Symbol       Description
 xxxxx (binary)           xx (decimal)         xxxxxx       xxxxxxxxxxx (text)
 
-00000               ---  00              ---  (none)       None
-00001               ---  01              ---  pcinc        PC <- PC + 1
-00010               ---  02              ---  pcmb         PC <- MBR (address of operand)
-00011               ---  03              ---  pcmbz        PC <- MBR (address of operand), if Zero_Flag is SET
-00100               ---  04              ---  pcmbl        PC <- MBR (address of operand), if Less_Flag is SET
-00101               ---  05              ---  pcmbg        PC <- MBR (address of operand), if Greater_Flag is SET
-00110               ---  06              ---  mapc         MAR <- PC
-00111               ---  07              ---  mamb         MAR <- MBR (address of operand)
-01000               ---  08              ---  mbm          MBR <- RAM (operand)
-01001               ---  09              ---  mbra         MBR <- RA
-01010               ---  10              ---  mbrx         MBR <- RX
-01011               ---  11              ---  rxmb         RX <- MBR
-01100               ---  12              ---  mmb          RAM <- MBR
-01101               ---  13              ---  ramb         RA <- MBR
-01110               ---  14              ---  ntra         RA <- ~RA
-01111               ---  15              ---  ngra         RA <- -RA
-10000               ---  16              ---  andmb        RA <- RA and MBR
-10001               ---  17              ---  ormb         RA <- RA or MBR
-10010               ---  18              ---  xormb        RA <- RA xor MBR
-10011               ---  19              ---  addmb        RA <- RA + MBR, Carry_Flag <- carry
-10100               ---  20              ---  submb        RA <- RA - MBR
-10101               ---  21              ---  mulmb        RX (high) : RA (low) <- RA * MBR
-10110               ---  22              ---  divmb        RX (remainder) : RA (result) <- RA / MBR
-10111               ---  23              ---  shlra        Left_Shift(RA), Set Carry Flag as required
-11000               ---  24              ---  shrra        Right_Shift(RA), Set Carry Flag as required
-11001               ---  25              ---  cmpmb        Compare(RA, MBR) and Set (Zero, Less, Greater) Flags as required
-11010               ---  26              ---  setflgn      Set Flag_Number
-11011               ---  27              ---  clrflgn      Clear Flag_Number
-11100               ---  28              ---  showflgs     BIN_Display(Flags)
-11101               ---  29              ---  showmval     HEX_Display(MBR)
-11110               ---  30              ---  hlt          HALT
+00000                    00                   (none)       None
+00001                    01                   pcinc        PC <- PC + 1
+00010                    02                   pcmb         PC <- MBR (address of operand)
+00011                    03                   pcmbz        PC <- MBR (address of operand), if Zero_Flag is SET
+00100                    04                   pcmbl        PC <- MBR (address of operand), if Less_Flag is SET
+00101                    05                   pcmbg        PC <- MBR (address of operand), if Greater_Flag is SET
+00110                    06                   mapc         MAR <- PC
+00111                    07                   mamb         MAR <- MBR (address of operand)
+01000                    08                   mbm          MBR <- RAM (operand)
+01001                    09                   mbra         MBR <- RA
+01010                    10                   mbrx         MBR <- RX
+01011                    11                   rxmb         RX <- MBR
+01100                    12                   mmb          RAM <- MBR
+01101                    13                   ramb         RA <- MBR
+01110                    14                   ntra         RA <- ~RA
+01111                    15                   ngra         RA <- -RA
+10000                    16                   andmb        RA <- RA and MBR
+10001                    17                   ormb         RA <- RA or MBR
+10010                    18                   xormb        RA <- RA xor MBR
+10011                    19                   addmb        RA <- RA + MBR, Carry_Flag <- carry
+10100                    20                   submb        RA <- RA - MBR
+10101                    21                   mulmb        RX (high) : RA (low) <- RA * MBR
+10110                    22                   divmb        RX (remainder) : RA (result) <- RA / MBR
+10111                    23                   shlra        Left_Shift(RA), Set Carry Flag as required
+11000                    24                   shrra        Right_Shift(RA), Set Carry Flag as required
+11001                    25                   cmpmb        Compare(RA, MBR) and Set (Zero, Less, Greater) Flags as required
+11010                    26                   setflgn      Set Flag_Number
+11011                    27                   clrflgn      Clear Flag_Number
+11100                    28                   showflgs     BIN_Display(Flags)
+11101                    29                   showmval     HEX_Display(MBR)
+11110                    30                   hlt          HALT
