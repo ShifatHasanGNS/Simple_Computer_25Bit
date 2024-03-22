@@ -17,12 +17,12 @@ It's a **Simple Computer** that can load a program to perform several mathematic
 
 **Project's Screen-Record:** [Drive Link to the Screen-Record](https://drive.google.com/file/d/1iLuADe-lf7iD0OSO_f_PVGhQZaHBNhHF/view?usp=sharing)
 
-### ALU
-![ALU](./Screenshots/ALU.png)
+|------------------------------------|----------------------------------|
+|                                   ALU                                 |
+|                       ![ALU](./Screenshots/ALU.png)                   |
+|               Multiply             |              Divide              |
+| ![ALU](./Screenshots/Multiply.png) | ![ALU](./Screenshots/Divide.png) |
 
-
-|Multiply                           | Divide                          |
-|![ALU](./Screenshots/Multiply.png) | ![ALU](./Screenshots/Divide.png)|
 
 
 ### CU
