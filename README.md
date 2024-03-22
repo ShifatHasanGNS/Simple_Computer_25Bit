@@ -19,7 +19,7 @@ It's a **Simple Computer** that can load a program to perform several mathematic
 
 ---
 
-------------------------------------|-----------------------------------
+-----------------------------------------------------------------------
 ![ALU](./Screenshots/Multiply.png)  | ![ALU](./Screenshots/Divide.png)
 ------------------------------------|----------------------------------
 ![ALU](./Screenshots/ALU.png)       | ![ALU](./Screenshots/CU.png)
