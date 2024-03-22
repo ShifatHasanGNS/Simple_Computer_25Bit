@@ -15,6 +15,6 @@ It's a simple computer that can load a program to perform some mathematical and 
 
 ---
 
-**Screen Record:** [Drive Link to the Screen-Record](https://drive.google.com/file/d/1iLuADe-lf7iD0OSO_f_PVGhQZaHBNhHF/view?usp=sharing)
+**Project's Screen-Record:** [Drive Link to the Screen-Record](https://drive.google.com/file/d/1iLuADe-lf7iD0OSO_f_PVGhQZaHBNhHF/view?usp=sharing)
 
 ---
