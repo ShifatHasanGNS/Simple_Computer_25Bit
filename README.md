@@ -15,10 +15,10 @@ It's a `Simple Computer` that can load a program to perform several mathematical
 
 | Memory | CPU |
 | ------ | --- |
-| ![ALU](./Screenshots/Memory.png) | ![ALU](./Screenshots/CPU.png) |
+| ![Memory](./Screenshots/Memory.png) | ![CPU](./Screenshots/CPU.png) |
 
 | CU | ALU |
 | ------ | --- |
-| ![ALU](./Screenshots/CU.png) | ![ALU](./Screenshots/ALU.png) |
+| ![CU](./Screenshots/CU.png) | ![ALU](./Screenshots/ALU.png) |
 
 ---
