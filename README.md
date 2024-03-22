@@ -44,7 +44,7 @@ It's a `Simple Computer` that can load a program to perform several mathematical
 
 #
 
-## Instruction Set:
+## Instruction Set
 
 | OpCode  | Binary  | Hex  | Operation Type | Description                           | Example             |
 | ------- | ------- | ---- | ---------------| ------------------------------------- | ------------------- |
@@ -77,7 +77,7 @@ It's a `Simple Computer` that can load a program to perform several mathematical
 
 #
 
-### Note
+## Note
 - `Unary Operations`:
   - These Operations are performed on a single Operand which is already present (or loaded from memory) in the `RA-Register`.
   - The Result is stored in the same Operand (RA-Register).
