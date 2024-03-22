@@ -10,6 +10,8 @@ It's a simple computer that can load a program to perform some mathematical and 
 - Use 'translator.py' to translate program, if needed.
 
 - To Translate / Compile:
-  - python translator.py <source_file> <output_file>
+  - ```bash
+    python translator.py <source_file> <output_file>
+    ```
 
 ---
