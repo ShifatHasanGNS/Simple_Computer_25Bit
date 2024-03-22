@@ -2,7 +2,7 @@
 
 It's a **Simple Computer** that can load a program to perform several mathematical and logical operations. And, it's one of my **Academic Projects**.
 
-## Please Pay Attention:
+## Please Pay Attention
 
 - Please use 'Logisim Evolution' to Open the Circuit File.
 
