@@ -17,6 +17,27 @@ It's a `Simple Computer` that can load a program to perform several mathematical
 
 ---
 
+## Language Rules
+
+- Variable Declarations: `$variable_name`
+- Variable Declarations with Value Assignments:
+    - Decimal: `$variable_name = 123` or `$variable_name = #d123`
+    - Hexadecimal: `$variable_name = #h7B`
+    - Binary: `$variable_name = #b1111011`
+- Label Declarations: `@label_name:`
+- Variable Usage: `OpCode $variable_name`
+    - Example: `ADD $variable_name`
+- Label Usage: `OpCode @label_name`
+    - Example: `JMP @label_name`
+- Commentting:
+    - Only single-line comments are allowed
+    - Comment must be started with '!' character
+        - Example: `! This is a comment`
+    - A Comment can be added after the end of an instruction as well
+        - Example: `ADD $x   ! add 'x' to RA-Register`
+
+---
+
 ## Instruction Set:
 
 | OpCode  | Binary  | Hex  | Operation Type | Description                           | Example             |
@@ -87,3 +108,5 @@ It's a `Simple Computer` that can load a program to perform several mathematical
 | Control Unit | Arithmetic-Logic Unit |
 | ------ | --- |
 | ![CU](./Screenshots/CU.png) | ![ALU](./Screenshots/ALU.png) |
+
+---
