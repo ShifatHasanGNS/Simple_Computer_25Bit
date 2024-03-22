@@ -1,6 +1,6 @@
 # Simple_Computer_25Bit
 
-It's a simple computer that can load a program to perform some mathematical and logical operations. And, it's one of my Academic Projects.
+It's a **Simple Computer** that can load a program to perform several mathematical and logical operations. And, it's one of my **Academic Projects**.
 
 ## Please Pay Attention:
 
