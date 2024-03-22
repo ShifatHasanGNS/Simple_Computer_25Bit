@@ -13,5 +13,6 @@ It's a simple computer that can load a program to perform some mathematical and 
   - ```bash
     python translator.py <source_file> <output_file>
     ```
+- Check the `Program_Source_Files` Folder for examples.
 
 ---
