@@ -20,9 +20,7 @@ It's a **Simple Computer** that can load a program to perform several mathematic
 | Memory | CPU |
 | ------ | --- |
 | ![ALU](./Screenshots/Memory.png) | ![ALU](./Screenshots/CPU.png) |
-| ------ | --- |
 | CU | ALU |
-| -- | --- |
 | ![ALU](./Screenshots/CU.png) | ![ALU](./Screenshots/ALU.png) |
 
 ---
