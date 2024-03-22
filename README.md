@@ -11,9 +11,11 @@ It's a `Simple Computer` that can load a program to perform several mathematical
   - ```bash
     python translator.py <source_file> <output_file>
     ```
----
+#
 
-**Project-Demo:** [Project's Screen-Record](https://drive.google.com/file/d/1iLuADe-lf7iD0OSO_f_PVGhQZaHBNhHF/view?usp=sharing)
+> **Project-Demo:** [Project's Screen-Record](https://drive.google.com/file/d/1iLuADe-lf7iD0OSO_f_PVGhQZaHBNhHF/view?usp=sharing)
+
+#
 
 ---
 
@@ -36,7 +38,11 @@ It's a `Simple Computer` that can load a program to perform several mathematical
     - A Comment can be added after the end of an instruction as well
         - Example: `ADD $x   ! add 'x' to RA-Register`
 
----
+#
+
+> **Please Check the `Examples` Folder for better understanding.**
+
+#
 
 ## Instruction Set:
 
@@ -69,6 +75,8 @@ It's a `Simple Computer` that can load a program to perform several mathematical
 | `SHOW`  | `11000` | `18` | Binary         | Show Memory-Value via Hex-Display     | SHOW memory_address |
 | `HLT`   | `11001` | `19` | Unary          | Halts or Terminates the program       | HLT                 |
 
+#
+
 ### Note
 - `Unary Operations`:
   - These Operations are performed on a single Operand which is already present (or loaded from memory) in the `RA-Register`.
@@ -99,7 +107,7 @@ It's a `Simple Computer` that can load a program to perform several mathematical
 - `HLT`:
     - This Operation is used to Halt or Terminate the Program.
 
----
+#
 
 | Memory Interface | Central Processing Unit |
 | ------ | --- |
@@ -109,4 +117,4 @@ It's a `Simple Computer` that can load a program to perform several mathematical
 | ------ | --- |
 | ![CU](./Screenshots/CU.png) | ![ALU](./Screenshots/ALU.png) |
 
----
+#
