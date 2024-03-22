@@ -15,6 +15,6 @@ It's a simple computer that can load a program to perform some mathematical and 
 
 ---
 
-**Github:** [ShifatHasanGNS's Simple_Computer_25Bit](https://github.com/ShifatHasanGNS/Simple_Computer_25Bit.git)
+**Github:** [https://github.com/ShifatHasanGNS/Simple_Computer_25Bit.git](https://github.com/ShifatHasanGNS/Simple_Computer_25Bit.git)
 
 ---
