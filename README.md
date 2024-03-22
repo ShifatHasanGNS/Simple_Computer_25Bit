@@ -17,6 +17,15 @@ It's a **Simple Computer** that can load a program to perform several mathematic
 
 **Project's Screen-Record:** [Drive Link to the Screen-Record](https://drive.google.com/file/d/1iLuADe-lf7iD0OSO_f_PVGhQZaHBNhHF/view?usp=sharing)
 
+### Memory
+![ALU](./Screenshots/Memory.png)
+
+### CPU
+![ALU](./Screenshots/CPU.png)
+
+### CU
+![ALU](./Screenshots/CU.png)
+
 ## ALU
 ![ALU](./Screenshots/ALU.png)
 
@@ -24,11 +33,5 @@ It's a **Simple Computer** that can load a program to perform several mathematic
 | ---------------------------------- | -------------------------------- |
 | ![ALU](./Screenshots/Multiply.png) | ![ALU](./Screenshots/Divide.png) |
 
-### CU
-![ALU](./Screenshots/CU.png)
-### CPU
-![ALU](./Screenshots/CPU.png)
-### Memory
-![ALU](./Screenshots/Memory.png)
 
 ---
