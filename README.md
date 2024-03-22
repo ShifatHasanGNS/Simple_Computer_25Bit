@@ -17,11 +17,11 @@ It's a `Simple Computer` that can load a program to perform several mathematical
 
 ---
 
-| Memory | CPU |
+| Memory Interface | Central Processing Unit |
 | ------ | --- |
 | ![Memory](./Screenshots/Memory.png) | ![CPU](./Screenshots/CPU.png) |
 
-| CU | ALU |
+| Control Unit | Arithmetic-Logic Unit |
 | ------ | --- |
 | ![CU](./Screenshots/CU.png) | ![ALU](./Screenshots/ALU.png) |
 
