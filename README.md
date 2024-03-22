@@ -13,6 +13,10 @@ It's a `Simple Computer` that can load a program to perform several mathematical
     ```
 ---
 
+**Project-Demo:** [Project's Screen-Record](https://drive.google.com/file/d/1iLuADe-lf7iD0OSO_f_PVGhQZaHBNhHF/view?usp=sharing)
+
+---
+
 | Memory | CPU |
 | ------ | --- |
 | ![Memory](./Screenshots/Memory.png) | ![CPU](./Screenshots/CPU.png) |
