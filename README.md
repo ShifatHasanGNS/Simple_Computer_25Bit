@@ -17,6 +17,8 @@ It's a **Simple Computer** that can load a program to perform several mathematic
 
 **Project's Screen-Record:** [Drive Link to the Screen-Record](https://drive.google.com/file/d/1iLuADe-lf7iD0OSO_f_PVGhQZaHBNhHF/view?usp=sharing)
 
+---
+
 | Memory | CPU |
 | ------ | --- |
 | ![ALU](./Screenshots/Memory.png) | ![ALU](./Screenshots/CPU.png) |
