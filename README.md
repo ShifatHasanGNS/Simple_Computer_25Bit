@@ -19,10 +19,9 @@ It's a **Simple Computer** that can load a program to perform several mathematic
 
 ### ALU
 ![ALU](./Screenshots/ALU.png)
-### Multiply
-![ALU](./Screenshots/Multiply.png)
-### Divide
-![ALU](./Screenshots/Divide.png)
+Multiply | Divide
+-----------------
+![ALU](./Screenshots/Multiply.png) | ![ALU](./Screenshots/Divide.png)
 ### CU
 ![ALU](./Screenshots/CU.png)
 ### CPU
