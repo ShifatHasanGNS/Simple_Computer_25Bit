@@ -30,12 +30,12 @@ It's a `Simple Computer` that can load a program to perform several mathematical
     - Example: `ADD $variable_name`
 - Label Usage: `OpCode @label_name`
     - Example: `JMP @label_name`
-- Commentting:
+- Commenting:
     - Only single-line comments are allowed
     - Comment must be started with '!' character
-        - Example: `! This is a comment`
+        - Example: `! This is a comment
     - A Comment can be added after the end of an instruction as well
-        - Example: `ADD $x   ! add 'x' to RA-Register`
+        - Example: `ADD $x    ! add 'x' to RA-Register`
 
 #
 
