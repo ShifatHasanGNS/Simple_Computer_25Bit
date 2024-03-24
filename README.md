@@ -109,7 +109,7 @@ It's a `Simple Computer` that can load a program to perform several mathematical
 
 | Memory Interface | Central Processing Unit |
 | ------ | --- |
-| ![Memory](./Screenshots/Memory.png) | ![CPU](./Screenshots/CPU.png) |
+| ![Memory Intreface](./Screenshots/Memory_Interface.png) | ![CPU](./Screenshots/CPU.png) |
 
 | Control Unit | Arithmetic-Logic Unit |
 | ------ | --- |
