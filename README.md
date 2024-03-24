@@ -24,6 +24,7 @@ It's a `Simple Computer` that can load a program to perform several mathematical
     - Decimal: `$variable_name = 123` or `$variable_name = #d123`
     - Hexadecimal: `$variable_name = #h7B`
     - Binary: `$variable_name = #b1111011`
+- Can't use constant or number as a value directly. So, using value through a variable is recommended.
 - Label Declarations: `@label_name:`
 - Variable Usage: `OpCode $variable_name`
     - Example: `ADD $variable_name`
