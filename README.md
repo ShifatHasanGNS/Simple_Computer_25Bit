@@ -8,11 +8,11 @@ It's a `Simple Computer` that can load a program to perform several mathematical
 - Use `translator.py` to translate program, if needed.
   - I've made this translator to translate a program to Machine Code that the Computer can work with.
 - To Translate / Compile:
-  - Linux / Mac
+**Linux / Mac**
 ```bash
 ./Translator-Binary-Builds/translator.py <source_file> <output_file>
 ```
-  - Linux / Mac
+**Linux / Mac**
 ```bash
 Translator-Binary-Builds\translator.py <source_file> <output_file>
 ```
