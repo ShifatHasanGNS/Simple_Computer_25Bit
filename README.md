@@ -9,12 +9,11 @@ It's a `Simple Computer` that can load a program to perform several mathematical
   - I've made this translator to translate a program to Machine Code that the Computer can work with.
   - The translator is written in [`Go`](https://go.dev/) which is very fast and efficient. 
 - To Translate / Compile:
-
-**Linux / Mac**
+  - **Linux / Mac**
 ```bash
 ./Translator-Binary-Builds/translator-x-y <source_file> <output_file>
 ```
-**Windows**
+  - **Windows**
 ```bash
 Translator-Binary-Builds\translator-x-y.exe <source_file> <output_file>
 ```
