@@ -13,7 +13,7 @@ It's a `Simple Computer` that can load a program to perform several mathematical
 ```bash
 ./Translator-Binary-Builds/translator-x-y <source_file> <output_file>
 ```
-  - **Windows**
+-  - **Windows**
 ```bash
 Translator-Binary-Builds\translator-x-y.exe <source_file> <output_file>
 ```
