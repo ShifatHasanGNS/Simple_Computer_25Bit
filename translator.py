@@ -152,8 +152,6 @@ def translate(source_file: str, output_file: str):
         if var.startswith('#'):
             base = {'d': 10, 'h': 16, 'b': 2}.get(var[1], 10)
             var = int(var[2:], base)
-        # else:
-        #     var = int(var, 10)
 
         if var in vars_list:
             var = var_init + vars_list.index(var)
