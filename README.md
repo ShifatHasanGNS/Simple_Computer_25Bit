@@ -11,11 +11,11 @@ It's a `Simple Computer` that can load a program to perform several mathematical
 
 **Linux / Mac**
 ```bash
-./Translator-Binary-Builds/translator.py <source_file> <output_file>
+./Translator-Binary-Builds/<translator-x-y> <source_file> <output_file>
 ```
 **Windows**
 ```bash
-Translator-Binary-Builds\translator.py <source_file> <output_file>
+Translator-Binary-Builds\<translator-x-y>.exe <source_file> <output_file>
 ```
 
 #
