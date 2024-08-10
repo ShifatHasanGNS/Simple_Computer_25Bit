@@ -5,18 +5,18 @@ It's a `Simple Computer` that can load a program to perform several mathematical
 ## Please Pay Attention
 
 - Use [`Logisim Evolution`](https://github.com/logisim-evolution/logisim-evolution) to Open the Circuit File.
-- Use [`Translator-Binary-Builds/translator-x-y`](https://github.com/ShifatHasanGNS/Simple_Computer_25Bit/tree/main/Translator-Binary-Builds) to translate program, if needed.
+- Use [`Translator-Binary-Builds/translator-<x-y>`](https://github.com/ShifatHasanGNS/Simple_Computer_25Bit/tree/main/Translator-Binary-Builds) to translate program, if needed.
   - I've made this translator to translate a program to Machine Code that the Computer can work with.
   - The translator is written in [`Go`](https://go.dev/) which is very fast and efficient. 
 - To Translate / Compile:
 
 `Linux / Mac`
 ```bash
-./Translator-Binary-Builds/translator-x-y <source_file> <output_file>
+./Translator-Binary-Builds/translator-<x-y> <source_file> <output_file>
 ```
 `Windows`
 ```bash
-Translator-Binary-Builds\translator-x-y.exe <source_file> <output_file>
+Translator-Binary-Builds\translator-<x-y>.exe <source_file> <output_file>
 ```
 
 #
